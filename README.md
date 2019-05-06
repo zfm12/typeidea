@@ -1,3 +1,1 @@
-# typeidea
-Hercules
-hello,GitHub
+
